@@ -210,7 +210,7 @@ function App() {
 
           <div className="max-w-5xl mx-auto">
             <img 
-              src="/public/image.png" 
+              src="/image.png" 
               alt="GharPadharo Journey Timeline"
               className="w-full h-auto rounded-xl shadow-lg max-w-4xl mx-auto"
             />
